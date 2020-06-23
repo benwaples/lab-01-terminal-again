@@ -1,4 +1,4 @@
-'''
+```
 cd alchemy/foundations-prep
 
 git clone https://github.com/bwapes/lab-01-terminal-again.git
@@ -33,7 +33,7 @@ git commit -m 'repo and file structure'
 
 git push origin master
 
-'''
+```
 
 1. Tame 
 1. Impala
